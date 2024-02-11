@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1002630184843",
+    "project_id": "fir-onee",
+    "storage_bucket": "fir-onee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002630184843:android:0973af4feb500c0f06798e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_basic_1project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeNHONSumC_MCYIkoW3X8DtfO5jfwCsJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
