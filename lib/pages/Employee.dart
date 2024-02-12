@@ -117,7 +117,8 @@ class _Employee_formState extends State<Employee_form> {
                Map<String,dynamic> Employeemap = {
                 'Name': namecontroller.text,
                 'Age': agecontroller.text,
-                'Location': locationcontroller.text
+                'Location': locationcontroller.text,
+                'Id': id,
                };
         await Database().addEmployee(Employeemap,id).then((event)=>{
           Fluttertoast.showToast(
